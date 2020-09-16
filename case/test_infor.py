@@ -5,3 +5,5 @@ class TestInfo:
         assert 0
     def test_info_003(self):
         assert 1
+    def test_info_004(self):
+        assert 1
